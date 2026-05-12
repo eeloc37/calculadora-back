@@ -48,5 +48,3 @@ docker compose up --build
 - **Backend:** @eeloc37, @Bxtto
 - **Frontend:** @mau-m
 - **Infraestructura:** @MMCJUAREZ, @hernandev96
-# Verificando workflow test 17:22
-
